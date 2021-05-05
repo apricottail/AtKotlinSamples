@@ -1,0 +1,1 @@
+kotlinc -d AtHelloJvm.jar AtHelloJvm.kt

@@ -1,0 +1,1 @@
+kotlin -cp AtHelloJvm.jar AtHelloJvmKt
