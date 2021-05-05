@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.nar
 *.ear
@@ -25,3 +25,6 @@ hs_err_pid*
 # Custom Script Files
 **/build_*.*
 **/run_*.*
+
+# Output Folder
+**/out/
